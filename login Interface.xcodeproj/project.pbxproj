@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		991ED85B24D33AF200FF8B91 /* Readme.rtf in Resources */ = {isa = PBXBuildFile; fileRef = 991ED85A24D33AF200FF8B91 /* Readme.rtf */; };
 		99CCE66624CC01AD003A6C96 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99CCE66524CC01AD003A6C96 /* AppDelegate.swift */; };
 		99CCE66824CC01AD003A6C96 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99CCE66724CC01AD003A6C96 /* ViewController.swift */; };
 		99CCE66B24CC01AD003A6C96 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 99CCE66924CC01AD003A6C96 /* Main.storyboard */; };
@@ -35,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		991ED85A24D33AF200FF8B91 /* Readme.rtf */ = {isa = PBXFileReference; lastKnownFileType = text.rtf; path = Readme.rtf; sourceTree = "<group>"; };
 		99CCE66224CC01AD003A6C96 /* login Interface.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "login Interface.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		99CCE66524CC01AD003A6C96 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		99CCE66724CC01AD003A6C96 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -79,6 +81,7 @@
 		99CCE65924CC01AD003A6C96 = {
 			isa = PBXGroup;
 			children = (
+				991ED85A24D33AF200FF8B91 /* Readme.rtf */,
 				99CCE66424CC01AD003A6C96 /* login Interface */,
 				99CCE67C24CC01B1003A6C96 /* login InterfaceTests */,
 				99CCE68724CC01B1003A6C96 /* login InterfaceUITests */,
@@ -234,6 +237,7 @@
 			files = (
 				99CCE67324CC01B1003A6C96 /* LaunchScreen.storyboard in Resources */,
 				99CCE67024CC01B1003A6C96 /* Assets.xcassets in Resources */,
+				991ED85B24D33AF200FF8B91 /* Readme.rtf in Resources */,
 				99CCE66B24CC01AD003A6C96 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
